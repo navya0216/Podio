@@ -1,0 +1,148 @@
+body{
+     margin: 0;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-right: 2% 0%;
+}
+.navbar a{
+    text-decoration: none;
+    
+    color:black;
+    font-size: 1.2rem;
+}
+.logo{
+    
+    font-size: 4rem !important;
+}
+.navbar button{
+background-color:rgba(0, 128, 0, 0.782);
+border-radius: 25px;
+color:black;
+float: right;
+}
+.streamx{
+    background-image: url(https://podio.com/content/dam/podio/images/homepage/podio-hp-hero.jpeg);
+    background-size: cover;
+    min-height: 100vh;
+    position: relative;
+    opacity:0.80;
+}
+.streamx>div{
+width:40%;
+color:aliceblue;
+font-size: 2rem;
+text-align: center;
+position: absolute;
+top:20%;
+left:17%;
+}
+.style{
+    display:flex;
+    width:100%;
+
+}
+.Consolidated{
+ display: flex;
+ font-size: 25px;
+ align-items: center;
+ width: 85%;
+ margin:auto;
+}
+.Consolidated img{
+    flex: 0.050%;
+    max-width: 50%;
+    height: auto;
+}
+.content{
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.content h1{
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.content p{font-size: 20px;
+    margin-bottom: 50px;
+}
+.box{
+   display: inline-table; 	
+   width: 30%;
+}
+
+.streamx1{
+    background-image: url(https://podio.com/content/dam/podio/images/homepage/chancelight.jpg);
+    background-size: cover;
+    min-height: 50vh;
+    position: relative;
+
+}
+.streamx1>div{
+    width:40%;
+    font-size: 1.5rem;
+    text-align: right;
+    color:black;
+    position: absolute;
+top:30%;
+left:50%;
+}
+.Consolidated1{
+    display: flex;
+    font-size: 25px;
+    align-items: center;
+    width: 85%;
+    margin:auto;
+   }
+   .Consolidated1 img{
+       flex: 0.050%;
+       max-width: 50%;
+       height: auto;
+   }
+   .content1{
+       text-align: center;
+       margin-top: 20px;
+       
+   }
+   .content1 h1{
+       font-size: 50px;
+       margin-bottom: 10px;
+   }
+   .content1 p{font-size: 20px;
+       margin-bottom: 50px;
+   }
+  .box1{
+    display:inline-table;
+    width: 15%;
+    
+  }
+  .streamx2{
+    background-image: url(https://cdn.wallpapersafari.com/40/29/eUiwIg.png);
+    background-size: cover;
+    min-height: 50vh;
+    position: relative;
+    
+}
+.streamx2>div{
+width:40%;
+color:aliceblue;
+font-size: 2rem;
+text-align: center;
+position: absolute;
+top:20%;
+left:30%;
+}
+.navbar1{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-right: 2% 0%;
+}
+.navbar a{
+    text-decoration: none;
+    
+    color:black;
+    font-size: 1.2rem;
+}
